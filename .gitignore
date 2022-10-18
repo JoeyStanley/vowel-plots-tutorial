@@ -40,3 +40,10 @@ vignettes/*.pdf
 
 # R Project files
 *.Rproj
+
+/.quarto/
+renv/
+
+# rendered files
+*.html
+*_files/
